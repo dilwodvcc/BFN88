@@ -1,0 +1,7 @@
+
+Mening   ismim      :  abdulloh
+Mening   familiyam  :  fazliddinov
+Mening   yoshim     :  17
+Mening   bo'yim     :  195.54
+Mening   millatim   :  uz
+Mening   vaznim     :  75.5
